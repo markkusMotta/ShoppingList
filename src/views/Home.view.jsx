@@ -1,11 +1,12 @@
 import React from 'react'
+import App from './App/App'
 
 
 
 
 function HomeView() {
-    return <div>
-        todo: home view
+    return <div >
+        <App />
     </div>
 }
 
