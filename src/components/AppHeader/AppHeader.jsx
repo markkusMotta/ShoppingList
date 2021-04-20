@@ -4,8 +4,8 @@ import { Wrapper }  from './AppHeader.styles'
 
 function AppHeader() {
     return <Wrapper>
-        Alga <span>
-            Shopping
+        Shopping <span>
+            List
         </span>
     </Wrapper>
 }
